@@ -15,4 +15,4 @@ only 3 step：
 this tools is .net 4.0 msbuild.exe, if need other version, open .bat file and change the path.
 
 --------
-thanks for [blog](http://www.cnblogs.com/ShadowK/archive/2011/09/08/2171538.html)
+thanks for [blog](http://www.cnblogs.com/ShadowK/archive/2011/09/08/2171538.html) and [blog](http://blog.csdn.net/easyvcr/article/details/6947518)
