@@ -1,6 +1,6 @@
 
 
-#### right complie menu for .net 4.0
+#### right complie menu for .net 4.0,support windows 7 and windows 10
 
 
 only 3 step：
